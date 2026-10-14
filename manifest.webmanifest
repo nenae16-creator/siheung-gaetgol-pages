@@ -1,0 +1,17 @@
+{
+ "name": "시흥갯골축제 안내",
+ "short_name": "갯골축제",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#ffffff",
+ "theme_color": "#1F5E6E",
+ "lang": "ko",
+ "icons": [
+  {
+   "src": "icon.svg",
+   "sizes": "any",
+   "type": "image/svg+xml"
+  }
+ ]
+}

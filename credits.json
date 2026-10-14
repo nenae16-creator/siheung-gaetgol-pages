@@ -1,0 +1,34 @@
+[
+ {
+  "id": "hero",
+  "file": "img/hero.jpg",
+  "title": "Salt Warehouse of Sorae Salt Field no.a.jpg",
+  "author": "오모군",
+  "license": "CC BY 3.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Salt_Warehouse_of_Sorae_Salt_Field_no.a.jpg"
+ },
+ {
+  "id": "highlights",
+  "file": "img/highlights.jpg",
+  "title": "Restored 2nd-generation Crystallizing pond of Sorae Salt Field.jpg",
+  "author": "오모군",
+  "license": "CC BY 3.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Restored_2nd-generation_Crystallizing_pond_of_Sorae_Salt_Field.jpg"
+ },
+ {
+  "id": "family",
+  "file": "img/family.jpg",
+  "title": "Gasireong locomotive.jpg",
+  "author": "오모군",
+  "license": "CC BY 3.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Gasireong_locomotive.jpg"
+ },
+ {
+  "id": "night",
+  "file": "img/night.jpg",
+  "title": "Restored 3rd-generation Crystallizing pond of Sorae Salt Field.jpg",
+  "author": "오모군",
+  "license": "CC BY 3.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Restored_3rd-generation_Crystallizing_pond_of_Sorae_Salt_Field.jpg"
+ }
+]

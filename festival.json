@@ -1,0 +1,1805 @@
+{
+ "meta": {
+  "id": "siheung-gaetgol-21",
+  "name": "제21회 시흥갯골축제",
+  "shortName": "시흥갯골축제",
+  "nameEn": "SIHEUNG GAETGOL FESTIVAL",
+  "slogan": "바다가 그린 길, 바람이 만든 예술",
+  "startDate": "2026-09-18",
+  "endDate": "2026-09-20",
+  "dateLabel": "2026. 9. 18.(금) ~ 9. 20.(일) · 3일간",
+  "venueLabel": "시흥갯골생태공원 일원",
+  "region": "시흥",
+  "host": "시흥시",
+  "organizer": "시흥시 (관광과)",
+  "officialSite": "https://shggfestival.com/",
+  "intro": "옛 염전 터와 습지가 어우러진 시흥갯골생태공원에서 열리는 생태축제입니다. 2017년부터 문화체육관광부 문화관광축제로 선정되었고, 올해는 8개 테마길을 따라 21개 프로그램이 펼쳐졌습니다. 자연 보호를 위해 차 없는 축제로 운영됩니다.",
+  "ended": true,
+  "endedNotice": "제21회 시흥갯골축제는 2026.9.20(일) 종료되었습니다 · 지난 축제 정보로 만든 시연용 화면입니다",
+  "demoNotice": "영업 시연용 데모 — 공식 서비스 아님",
+  "checkedAt": "2026-10-04"
+ },
+ "theme": {
+  "primary": "#1F5E6E",
+  "primaryDeep": "#123F4A",
+  "accent": "#D9603A",
+  "sun": "#F4C553",
+  "ink": "#1C3440",
+  "sand": "#EFF2EA",
+  "mud": "#7A6A4F"
+ },
+ "hero": {
+  "kicker": "THE 21ST SIHEUNG GAETGOL FESTIVAL",
+  "lines": [
+   "바다가 그린 길,",
+   "바람이 만든 예술"
+  ],
+  "highlight": "예술",
+  "subtitle": "경기도 유일의 내만갯골, 시흥갯골생태공원에서 열리는 차 없는 생태축제",
+  "imagePosition": "50% 55%",
+  "image": "img/hero.jpg",
+  "video": "https://www.youtube.com/shorts/6rdD4Ss_Oh8"
+ },
+ "shortcuts": [
+  {
+   "key": "program",
+   "label": "프로그램",
+   "en": "Program",
+   "icon": "calendar",
+   "tone": "coral"
+  },
+  {
+   "key": "map",
+   "label": "행사장 지도",
+   "en": "Map",
+   "icon": "map",
+   "tone": "teal"
+  },
+  {
+   "key": "shuttle",
+   "label": "셔틀 안내",
+   "en": "Shuttle",
+   "icon": "bus",
+   "tone": "violet"
+  },
+  {
+   "key": "parking",
+   "label": "주차 안내",
+   "en": "Parking",
+   "icon": "parking",
+   "tone": "sky"
+  },
+  {
+   "key": "plan",
+   "label": "내 일정",
+   "en": "My Plan",
+   "icon": "heart",
+   "tone": "rose"
+  },
+  {
+   "key": "course",
+   "label": "추천 코스",
+   "en": "Courses",
+   "icon": "sparkles",
+   "tone": "mint"
+  },
+  {
+   "key": "notices",
+   "label": "공식 공지",
+   "en": "Notice",
+   "icon": "megaphone",
+   "tone": "sun"
+  },
+  {
+   "key": "faq",
+   "label": "자주 묻는 질문",
+   "en": "FAQ",
+   "icon": "faq",
+   "tone": "sky"
+  }
+ ],
+ "courses": [
+  {
+   "id": "highlights",
+   "title": "갯골 대표 공연",
+   "desc": "염판 무대부터 잔디광장 콘서트까지",
+   "badge": "인기 코스",
+   "tone": "coral",
+   "alt": "복원된 염전 결정지",
+   "programs": [
+    "소금의 기억, 물의 춤",
+    "콘서트 in 갯골",
+    "갯골 시니어 런웨이 — 한복",
+    "갯골 시니어 런웨이 — 화이트 드레스",
+    "거리로 나온 예술제",
+    "판타지 열기구 체험 (오후·야간)"
+   ],
+   "image": "img/highlights.jpg"
+  },
+  {
+   "id": "family",
+   "title": "아이와 갯골 탐험",
+   "desc": "염전·곤충·생태 체험",
+   "badge": "가족 추천",
+   "tone": "teal",
+   "alt": "갯골생태공원에 전시된 염전 가시렁차",
+   "programs": [
+    "갯골 생태탐험대",
+    "염전 체험",
+    "솔트플레이 · 맨발의 소금길",
+    "폴짝폴짝 곤충체험",
+    "오늘 하루 갯골이 내 놀이터",
+    "소금창고 인형극장",
+    "갯골 스탬프 랠리",
+    "판타지 열기구 체험 (오전)"
+   ],
+   "image": "img/family.jpg"
+  },
+  {
+   "id": "night",
+   "title": "염전의 밤",
+   "desc": "야간 대표 공연과 열기구",
+   "badge": "야간 추천",
+   "tone": "violet",
+   "alt": "하늘이 비치는 염전 결정지",
+   "programs": [
+    "콘서트 in 갯골",
+    "소금의 기억, 물의 춤",
+    "판타지 열기구 체험 (오후·야간)"
+   ],
+   "image": "img/night.jpg"
+  }
+ ],
+ "courseNote": "공식 일정의 날짜·시각을 코스별로 묶었습니다. 이동 시간과 동선 순서는 공식 자료가 없어 정하지 않았습니다.",
+ "signoff": {
+  "text": "바다가 그린 길, 바람이 만든 예술",
+  "en": "SIHEUNG GAETGOL FESTIVAL · SIHEUNG GAETGOL ECOLOGICAL PARK"
+ },
+ "days": [
+  {
+   "date": "2026-09-18",
+   "label": "1일차",
+   "dow": "금"
+  },
+  {
+   "date": "2026-09-19",
+   "label": "2일차",
+   "dow": "토"
+  },
+  {
+   "date": "2026-09-20",
+   "label": "3일차",
+   "dow": "일"
+  }
+ ],
+ "categories": [
+  {
+   "key": "main",
+   "name": "대표",
+   "color": "#B5523B"
+  },
+  {
+   "key": "performance",
+   "name": "공연",
+   "color": "#2F6F8F"
+  },
+  {
+   "key": "experience",
+   "name": "체험",
+   "color": "#4F8A5B"
+  },
+  {
+   "key": "collab",
+   "name": "협업·참여",
+   "color": "#B8892F"
+  },
+  {
+   "key": "etc",
+   "name": "장터·편의",
+   "color": "#6F7A80"
+  }
+ ],
+ "programs": [
+  {
+   "id": "p1",
+   "cat": "main",
+   "title": "소금의 기억, 물의 춤",
+   "venue": "염전로 염판 무대",
+   "dates": [
+    "2026-09-18"
+   ],
+   "time": "20:30~21:25",
+   "desc": "염판 위 야간 대표 공연. 1부: 비보이·댄스 퍼포먼스 (과거·기억·역사) → 2부: 뮤지컬 퍼포먼스 「빛의 결정」, 피날레에서 관객 휴대폰 불빛이 함께합니다.",
+   "performers": [],
+   "note": "1부 20:30~20:55 · 2부 21:00~21:25 (공식 상세 페이지 기준)",
+   "always": false,
+   "source": "https://shggfestival.com/programs/salt-dance/"
+  },
+  {
+   "id": "p2",
+   "cat": "main",
+   "title": "소금의 기억, 물의 춤",
+   "venue": "염전로 염판 무대",
+   "dates": [
+    "2026-09-19"
+   ],
+   "time": "20:30~21:25",
+   "desc": "염판 위 야간 대표 공연. 1부: 브라스밴드 공연 (미래·확장·에너지) → 2부: 뮤지컬 퍼포먼스 「빛의 결정」, 피날레에서 관객 휴대폰 불빛이 함께합니다.",
+   "performers": [],
+   "note": "1부 20:30~20:55 · 2부 21:00~21:25 (공식 상세 페이지 기준)",
+   "always": false,
+   "source": "https://shggfestival.com/programs/salt-dance/"
+  },
+  {
+   "id": "p3",
+   "cat": "main",
+   "title": "소금의 기억, 물의 춤",
+   "venue": "염전로 염판 무대",
+   "dates": [
+    "2026-09-20"
+   ],
+   "time": "20:30~21:25",
+   "desc": "염판 위 야간 대표 공연. 1부: 성악·팝페라 공연 (연대·어울림·하모니) → 2부: 뮤지컬 퍼포먼스 「빛의 결정」, 피날레에서 관객 휴대폰 불빛이 함께합니다.",
+   "performers": [],
+   "note": "1부 20:30~20:55 · 2부 21:00~21:25 (공식 상세 페이지 기준)",
+   "always": false,
+   "source": "https://shggfestival.com/programs/salt-dance/"
+  },
+  {
+   "id": "p4",
+   "cat": "performance",
+   "title": "콘서트 in 갯골",
+   "venue": "잔디로 잔디광장(잔디마당)",
+   "dates": [
+    "2026-09-18"
+   ],
+   "time": "18:30~20:30",
+   "desc": "익숙한 명곡을 라이브로 듣는 저녁 콘서트. 돗자리 착석 관람.",
+   "performers": [
+    "한울타리 통기타 동아리",
+    "김시영밴드",
+    "트리니티",
+    "심명기"
+   ],
+   "note": null,
+   "always": false,
+   "source": "https://shggfestival.com/programs/concert/"
+  },
+  {
+   "id": "p5",
+   "cat": "performance",
+   "title": "콘서트 in 갯골",
+   "venue": "잔디로 잔디광장(잔디마당)",
+   "dates": [
+    "2026-09-19"
+   ],
+   "time": "18:30~20:30",
+   "desc": "익숙한 명곡을 라이브로 듣는 저녁 콘서트. 돗자리 착석 관람.",
+   "performers": [
+    "동물원",
+    "자전거 탄 풍경",
+    "여행스케치"
+   ],
+   "note": null,
+   "always": false,
+   "source": "https://shggfestival.com/programs/concert/"
+  },
+  {
+   "id": "p6",
+   "cat": "performance",
+   "title": "콘서트 in 갯골",
+   "venue": "잔디로 잔디광장(잔디마당)",
+   "dates": [
+    "2026-09-20"
+   ],
+   "time": "18:30~20:30",
+   "desc": "익숙한 명곡을 라이브로 듣는 저녁 콘서트. 돗자리 착석 관람.",
+   "performers": [
+    "박혜경",
+    "서영은"
+   ],
+   "note": null,
+   "always": false,
+   "source": "https://shggfestival.com/programs/concert/"
+  },
+  {
+   "id": "p7",
+   "cat": "performance",
+   "title": "소금창고 인형극장",
+   "venue": "생명로 소금창고",
+   "dates": [
+    "2026-09-19"
+   ],
+   "time": "11:00~11:30",
+   "desc": "저어새 가족과 함께 갯골·소금창고 이야기를 만나는 어린이 인형극 (무료).",
+   "performers": [],
+   "note": "회차별 40명 선착순 입장권 (11·13시 회차 당일 10:00, 15시 회차 14:00부터 배부)",
+   "always": false,
+   "source": "https://shggfestival.com/programs/salt-puppet/"
+  },
+  {
+   "id": "p8",
+   "cat": "performance",
+   "title": "소금창고 인형극장",
+   "venue": "생명로 소금창고",
+   "dates": [
+    "2026-09-19"
+   ],
+   "time": "13:00~13:30",
+   "desc": "저어새 가족과 함께 갯골·소금창고 이야기를 만나는 어린이 인형극 (무료).",
+   "performers": [],
+   "note": "회차별 40명 선착순 입장권 (11·13시 회차 당일 10:00, 15시 회차 14:00부터 배부)",
+   "always": false,
+   "source": "https://shggfestival.com/programs/salt-puppet/"
+  },
+  {
+   "id": "p9",
+   "cat": "performance",
+   "title": "소금창고 인형극장",
+   "venue": "생명로 소금창고",
+   "dates": [
+    "2026-09-19"
+   ],
+   "time": "15:00~15:30",
+   "desc": "저어새 가족과 함께 갯골·소금창고 이야기를 만나는 어린이 인형극 (무료).",
+   "performers": [],
+   "note": "회차별 40명 선착순 입장권 (11·13시 회차 당일 10:00, 15시 회차 14:00부터 배부)",
+   "always": false,
+   "source": "https://shggfestival.com/programs/salt-puppet/"
+  },
+  {
+   "id": "p10",
+   "cat": "performance",
+   "title": "소금창고 인형극장",
+   "venue": "생명로 소금창고",
+   "dates": [
+    "2026-09-20"
+   ],
+   "time": "11:00~11:30",
+   "desc": "저어새 가족과 함께 갯골·소금창고 이야기를 만나는 어린이 인형극 (무료).",
+   "performers": [],
+   "note": "회차별 40명 선착순 입장권 (11·13시 회차 당일 10:00, 15시 회차 14:00부터 배부)",
+   "always": false,
+   "source": "https://shggfestival.com/programs/salt-puppet/"
+  },
+  {
+   "id": "p11",
+   "cat": "performance",
+   "title": "소금창고 인형극장",
+   "venue": "생명로 소금창고",
+   "dates": [
+    "2026-09-20"
+   ],
+   "time": "13:00~13:30",
+   "desc": "저어새 가족과 함께 갯골·소금창고 이야기를 만나는 어린이 인형극 (무료).",
+   "performers": [],
+   "note": "회차별 40명 선착순 입장권 (11·13시 회차 당일 10:00, 15시 회차 14:00부터 배부)",
+   "always": false,
+   "source": "https://shggfestival.com/programs/salt-puppet/"
+  },
+  {
+   "id": "p12",
+   "cat": "performance",
+   "title": "소금창고 인형극장",
+   "venue": "생명로 소금창고",
+   "dates": [
+    "2026-09-20"
+   ],
+   "time": "15:00~15:30",
+   "desc": "저어새 가족과 함께 갯골·소금창고 이야기를 만나는 어린이 인형극 (무료).",
+   "performers": [],
+   "note": "회차별 40명 선착순 입장권 (11·13시 회차 당일 10:00, 15시 회차 14:00부터 배부)",
+   "always": false,
+   "source": "https://shggfestival.com/programs/salt-puppet/"
+  },
+  {
+   "id": "p13",
+   "cat": "performance",
+   "title": "나무숲 음악제",
+   "venue": "생명로 소나무숲 소공연장",
+   "dates": [
+    "2026-09-19"
+   ],
+   "time": "14:00",
+   "desc": "소나무 숲 무대에서 즐기는 자연 속 음악 공연.",
+   "performers": [],
+   "note": "공식 시간표에는 시작 시각만 표기 (종료 시각 미공개)",
+   "always": false,
+   "source": "https://shggfestival.com/programs/"
+  },
+  {
+   "id": "p14",
+   "cat": "performance",
+   "title": "나무숲 음악제",
+   "venue": "생명로 소나무숲 소공연장",
+   "dates": [
+    "2026-09-19"
+   ],
+   "time": "15:30",
+   "desc": "소나무 숲 무대에서 즐기는 자연 속 음악 공연.",
+   "performers": [],
+   "note": "공식 시간표에는 시작 시각만 표기 (종료 시각 미공개)",
+   "always": false,
+   "source": "https://shggfestival.com/programs/"
+  },
+  {
+   "id": "p15",
+   "cat": "performance",
+   "title": "나무숲 음악제",
+   "venue": "생명로 소나무숲 소공연장",
+   "dates": [
+    "2026-09-20"
+   ],
+   "time": "10:30",
+   "desc": "소나무 숲 무대에서 즐기는 자연 속 음악 공연.",
+   "performers": [],
+   "note": "공식 시간표에는 시작 시각만 표기 (종료 시각 미공개)",
+   "always": false,
+   "source": "https://shggfestival.com/programs/"
+  },
+  {
+   "id": "p16",
+   "cat": "performance",
+   "title": "나무숲 음악제",
+   "venue": "생명로 소나무숲 소공연장",
+   "dates": [
+    "2026-09-20"
+   ],
+   "time": "14:00",
+   "desc": "소나무 숲 무대에서 즐기는 자연 속 음악 공연.",
+   "performers": [],
+   "note": "공식 시간표에는 시작 시각만 표기 (종료 시각 미공개)",
+   "always": false,
+   "source": "https://shggfestival.com/programs/"
+  },
+  {
+   "id": "p17",
+   "cat": "performance",
+   "title": "나무숲 음악제",
+   "venue": "생명로 소나무숲 소공연장",
+   "dates": [
+    "2026-09-20"
+   ],
+   "time": "15:30",
+   "desc": "소나무 숲 무대에서 즐기는 자연 속 음악 공연.",
+   "performers": [],
+   "note": "공식 시간표에는 시작 시각만 표기 (종료 시각 미공개)",
+   "always": false,
+   "source": "https://shggfestival.com/programs/"
+  },
+  {
+   "id": "p18",
+   "cat": "performance",
+   "title": "갯골 시니어 런웨이 — 한복",
+   "venue": "염전로 소금길",
+   "dates": [
+    "2026-09-18"
+   ],
+   "time": "17:00~17:30",
+   "desc": "염판 사이 소금길에서 시니어 모델이 선보이는 한복 런웨이.",
+   "performers": [],
+   "note": null,
+   "always": false,
+   "source": "https://shggfestival.com/programs/senior-runway/"
+  },
+  {
+   "id": "p19",
+   "cat": "performance",
+   "title": "갯골 시니어 런웨이 — 화이트 드레스",
+   "venue": "염전로 소금길",
+   "dates": [
+    "2026-09-19"
+   ],
+   "time": "17:00~17:30",
+   "desc": "염판 풍경과 어우러지는 화이트 드레스 런웨이.",
+   "performers": [],
+   "note": null,
+   "always": false,
+   "source": "https://shggfestival.com/programs/senior-runway/"
+  },
+  {
+   "id": "p20",
+   "cat": "performance",
+   "title": "거리로 나온 예술제",
+   "venue": "잔디로 잔디광장",
+   "dates": [
+    "2026-09-20"
+   ],
+   "time": "15:30~17:30",
+   "desc": "경기도 생활 전문 예술인들의 장르 공연 무대.",
+   "performers": [
+    "이재영(새비) · 인디포크",
+    "청악 · 국악&브라스",
+    "파운드리 랩스 · 클래식/성악/팝페라",
+    "우하린 · 퓨전국악",
+    "크로스트 앙상블 · 클래식 크로스오버"
+   ],
+   "note": "공연 순서는 변경될 수 있음 (공식 안내)",
+   "always": false,
+   "source": "https://shggfestival.com/programs/street-art/"
+  },
+  {
+   "id": "p21",
+   "cat": "performance",
+   "title": "시흥시태권도시범단",
+   "venue": "잔디광장",
+   "dates": [
+    "2026-09-19"
+   ],
+   "time": "18:00",
+   "desc": "콘서트 전 태권도 시범 공연.",
+   "performers": [],
+   "note": "공식 시간표에 시작 시각만 표기",
+   "always": false,
+   "source": "https://shggfestival.com/schedule/"
+  },
+  {
+   "id": "p22",
+   "cat": "performance",
+   "title": "Sea Pool 파티 · DJ 공연 (1회차)",
+   "venue": "염전로 해수풀장",
+   "dates": [
+    "2026-09-18"
+   ],
+   "time": "10:30~11:20",
+   "desc": "해수풀장 물놀이와 함께하는 DJ 공연.",
+   "performers": [],
+   "note": "아쿠아슈즈 필수 · 수상안전요원 상시 배치",
+   "always": false,
+   "source": "https://shggfestival.com/programs/sea-pool/"
+  },
+  {
+   "id": "p23",
+   "cat": "performance",
+   "title": "Sea Pool 파티 · DJ 공연 (2회차)",
+   "venue": "염전로 해수풀장",
+   "dates": [
+    "2026-09-18"
+   ],
+   "time": "12:50~13:40",
+   "desc": "해수풀장 물놀이와 함께하는 DJ 공연.",
+   "performers": [],
+   "note": null,
+   "always": false,
+   "source": "https://shggfestival.com/programs/sea-pool/"
+  },
+  {
+   "id": "p24",
+   "cat": "performance",
+   "title": "Sea Pool 파티 · 마술 공연",
+   "venue": "염전로 해수풀장",
+   "dates": [
+    "2026-09-18"
+   ],
+   "time": "15:00~15:30",
+   "desc": "어린이 물놀이 프로그램 속 마술 공연.",
+   "performers": [],
+   "note": null,
+   "always": false,
+   "source": "https://shggfestival.com/programs/sea-pool/"
+  },
+  {
+   "id": "p25",
+   "cat": "performance",
+   "title": "Sea Pool 파티 · DJ 공연 (1회차)",
+   "venue": "염전로 해수풀장",
+   "dates": [
+    "2026-09-19"
+   ],
+   "time": "10:30~11:20",
+   "desc": "해수풀장 물놀이와 함께하는 DJ 공연.",
+   "performers": [],
+   "note": "아쿠아슈즈 필수 · 수상안전요원 상시 배치",
+   "always": false,
+   "source": "https://shggfestival.com/programs/sea-pool/"
+  },
+  {
+   "id": "p26",
+   "cat": "performance",
+   "title": "Sea Pool 파티 · DJ 공연 (2회차)",
+   "venue": "염전로 해수풀장",
+   "dates": [
+    "2026-09-19"
+   ],
+   "time": "12:50~13:40",
+   "desc": "해수풀장 물놀이와 함께하는 DJ 공연.",
+   "performers": [],
+   "note": null,
+   "always": false,
+   "source": "https://shggfestival.com/programs/sea-pool/"
+  },
+  {
+   "id": "p27",
+   "cat": "performance",
+   "title": "Sea Pool 파티 · 마술 공연",
+   "venue": "염전로 해수풀장",
+   "dates": [
+    "2026-09-19"
+   ],
+   "time": "15:00~15:30",
+   "desc": "어린이 물놀이 프로그램 속 마술 공연.",
+   "performers": [],
+   "note": null,
+   "always": false,
+   "source": "https://shggfestival.com/programs/sea-pool/"
+  },
+  {
+   "id": "p28",
+   "cat": "performance",
+   "title": "Sea Pool 파티 · DJ 공연 (1회차)",
+   "venue": "염전로 해수풀장",
+   "dates": [
+    "2026-09-20"
+   ],
+   "time": "10:30~11:20",
+   "desc": "해수풀장 물놀이와 함께하는 DJ 공연.",
+   "performers": [],
+   "note": "아쿠아슈즈 필수 · 수상안전요원 상시 배치",
+   "always": false,
+   "source": "https://shggfestival.com/programs/sea-pool/"
+  },
+  {
+   "id": "p29",
+   "cat": "performance",
+   "title": "Sea Pool 파티 · DJ 공연 (2회차)",
+   "venue": "염전로 해수풀장",
+   "dates": [
+    "2026-09-20"
+   ],
+   "time": "12:50~13:40",
+   "desc": "해수풀장 물놀이와 함께하는 DJ 공연.",
+   "performers": [],
+   "note": null,
+   "always": false,
+   "source": "https://shggfestival.com/programs/sea-pool/"
+  },
+  {
+   "id": "p30",
+   "cat": "performance",
+   "title": "Sea Pool 파티 · 마술 공연",
+   "venue": "염전로 해수풀장",
+   "dates": [
+    "2026-09-20"
+   ],
+   "time": "15:00~15:30",
+   "desc": "어린이 물놀이 프로그램 속 마술 공연.",
+   "performers": [],
+   "note": null,
+   "always": false,
+   "source": "https://shggfestival.com/programs/sea-pool/"
+  },
+  {
+   "id": "p31",
+   "cat": "experience",
+   "title": "판타지 열기구 체험 (오전)",
+   "venue": "바람로 일원",
+   "dates": [
+    "2026-09-18"
+   ],
+   "time": "09:00~12:00",
+   "desc": "안전로프로 연결된 계류식 열기구로 약 30m 상공에서 갯골을 내려다봅니다.",
+   "performers": [],
+   "note": "1인 10,000원 · 당일 현장 접수 · 비행 약 5~10분 · 기상 상황에 따라 중단될 수 있음",
+   "always": false,
+   "source": "https://shggfestival.com/programs/balloon/"
+  },
+  {
+   "id": "p32",
+   "cat": "experience",
+   "title": "판타지 열기구 체험 (오후·야간)",
+   "venue": "바람로 일원",
+   "dates": [
+    "2026-09-18"
+   ],
+   "time": "16:00~21:00",
+   "desc": "해 질 녘부터 밤까지 이어지는 열기구 체험 (12:00~16:00 브레이크타임).",
+   "performers": [],
+   "note": "1인 10,000원 · 당일 현장 접수",
+   "always": false,
+   "source": "https://shggfestival.com/programs/balloon/"
+  },
+  {
+   "id": "p33",
+   "cat": "experience",
+   "title": "갯골 생태탐험대",
+   "venue": "생명로 흔들전망대 인근 (바람의 언덕)",
+   "dates": [
+    "2026-09-18"
+   ],
+   "time": "13:00~15:00 / 15:00~17:00",
+   "desc": "보물찾기 → 생태 스토리텔링 → 레크리에이션 미션을 마치면 인증메달을 받는 가족 생태 체험.",
+   "performers": [],
+   "note": "금요일은 단체(15인 이상) 대상 · 사전접수 필수(공식 시간표: 모집완료) · 1인 3,000원 · 권장 6~13세",
+   "always": false,
+   "source": "https://shggfestival.com/programs/getgol-explorer/"
+  },
+  {
+   "id": "p34",
+   "cat": "experience",
+   "title": "판타지 열기구 체험 (오전)",
+   "venue": "바람로 일원",
+   "dates": [
+    "2026-09-19"
+   ],
+   "time": "09:00~12:00",
+   "desc": "안전로프로 연결된 계류식 열기구로 약 30m 상공에서 갯골을 내려다봅니다.",
+   "performers": [],
+   "note": "1인 10,000원 · 당일 현장 접수 · 비행 약 5~10분 · 기상 상황에 따라 중단될 수 있음",
+   "always": false,
+   "source": "https://shggfestival.com/programs/balloon/"
+  },
+  {
+   "id": "p35",
+   "cat": "experience",
+   "title": "판타지 열기구 체험 (오후·야간)",
+   "venue": "바람로 일원",
+   "dates": [
+    "2026-09-19"
+   ],
+   "time": "16:00~21:00",
+   "desc": "해 질 녘부터 밤까지 이어지는 열기구 체험 (12:00~16:00 브레이크타임).",
+   "performers": [],
+   "note": "1인 10,000원 · 당일 현장 접수",
+   "always": false,
+   "source": "https://shggfestival.com/programs/balloon/"
+  },
+  {
+   "id": "p36",
+   "cat": "experience",
+   "title": "갯골 생태탐험대",
+   "venue": "생명로 흔들전망대 인근 (바람의 언덕)",
+   "dates": [
+    "2026-09-19"
+   ],
+   "time": "13:00~15:00 / 15:00~17:00",
+   "desc": "보물찾기 → 생태 스토리텔링 → 레크리에이션 미션을 마치면 인증메달을 받는 가족 생태 체험.",
+   "performers": [],
+   "note": "사전접수 필수(공식 시간표: 모집완료) · 1인 3,000원 · 권장 6~13세",
+   "always": false,
+   "source": "https://shggfestival.com/programs/getgol-explorer/"
+  },
+  {
+   "id": "p37",
+   "cat": "experience",
+   "title": "판타지 열기구 체험 (오전)",
+   "venue": "바람로 일원",
+   "dates": [
+    "2026-09-20"
+   ],
+   "time": "09:00~12:00",
+   "desc": "안전로프로 연결된 계류식 열기구로 약 30m 상공에서 갯골을 내려다봅니다.",
+   "performers": [],
+   "note": "1인 10,000원 · 당일 현장 접수 · 비행 약 5~10분 · 기상 상황에 따라 중단될 수 있음",
+   "always": false,
+   "source": "https://shggfestival.com/programs/balloon/"
+  },
+  {
+   "id": "p38",
+   "cat": "experience",
+   "title": "판타지 열기구 체험 (오후·야간)",
+   "venue": "바람로 일원",
+   "dates": [
+    "2026-09-20"
+   ],
+   "time": "16:00~21:00",
+   "desc": "해 질 녘부터 밤까지 이어지는 열기구 체험 (12:00~16:00 브레이크타임).",
+   "performers": [],
+   "note": "1인 10,000원 · 당일 현장 접수",
+   "always": false,
+   "source": "https://shggfestival.com/programs/balloon/"
+  },
+  {
+   "id": "p39",
+   "cat": "experience",
+   "title": "갯골 생태탐험대",
+   "venue": "생명로 흔들전망대 인근 (바람의 언덕)",
+   "dates": [
+    "2026-09-20"
+   ],
+   "time": "13:00~15:00 / 15:00~17:00",
+   "desc": "보물찾기 → 생태 스토리텔링 → 레크리에이션 미션을 마치면 인증메달을 받는 가족 생태 체험.",
+   "performers": [],
+   "note": "사전접수 필수(공식 시간표: 모집완료) · 1인 3,000원 · 권장 6~13세",
+   "always": false,
+   "source": "https://shggfestival.com/programs/getgol-explorer/"
+  },
+  {
+   "id": "p40",
+   "cat": "experience",
+   "title": "염전 체험",
+   "venue": "염전로 염판 위",
+   "dates": [
+    "2026-09-18",
+    "2026-09-19"
+   ],
+   "time": "10:00 · 11:00 · 13:00 · 14:00 · 15:00 · 16:00 회차",
+   "desc": "소금이 만들어지는 과정을 직접 해 보는 염전 체험.",
+   "performers": [],
+   "note": null,
+   "always": false,
+   "source": "https://shggfestival.com/schedule/"
+  },
+  {
+   "id": "p41",
+   "cat": "experience",
+   "title": "염전 체험",
+   "venue": "염전로 염판 위",
+   "dates": [
+    "2026-09-20"
+   ],
+   "time": "10:00 · 11:00 · 16:00 회차",
+   "desc": "소금이 만들어지는 과정을 직접 해 보는 염전 체험 (일요일은 소금제로 회차 축소).",
+   "performers": [],
+   "note": null,
+   "always": false,
+   "source": "https://shggfestival.com/schedule/"
+  },
+  {
+   "id": "p42",
+   "cat": "experience",
+   "title": "솔트플레이 · 맨발의 소금길",
+   "venue": "염전로 염판 위",
+   "dates": [
+    "2026-09-18",
+    "2026-09-19",
+    "2026-09-20"
+   ],
+   "time": "10:00~17:00",
+   "desc": "소금 장난감·소꿉놀이와 맨발로 걷는 소금길 체험.",
+   "performers": [],
+   "note": null,
+   "always": true,
+   "source": "https://shggfestival.com/programs/"
+  },
+  {
+   "id": "p43",
+   "cat": "experience",
+   "title": "폴짝폴짝 곤충체험",
+   "venue": "생명로2",
+   "dates": [
+    "2026-09-18",
+    "2026-09-19",
+    "2026-09-20"
+   ],
+   "time": "10:00~17:00",
+   "desc": "곤충 체험과 전시.",
+   "performers": [],
+   "note": null,
+   "always": true,
+   "source": "https://shggfestival.com/programs/"
+  },
+  {
+   "id": "p44",
+   "cat": "experience",
+   "title": "오늘 하루 갯골이 내 놀이터",
+   "venue": "바람로 일원",
+   "dates": [
+    "2026-09-18",
+    "2026-09-19",
+    "2026-09-20"
+   ],
+   "time": "10:00~17:00",
+   "desc": "어린이가 자유롭게 뛰노는 놀이 콘텐츠.",
+   "performers": [],
+   "note": null,
+   "always": true,
+   "source": "https://shggfestival.com/programs/"
+  },
+  {
+   "id": "p45",
+   "cat": "experience",
+   "title": "갯골 추억의 사진관",
+   "venue": "생명로 흔들전망대 일원",
+   "dates": [
+    "2026-09-18",
+    "2026-09-19",
+    "2026-09-20"
+   ],
+   "time": "10:00~17:00",
+   "desc": "갯골을 배경으로 사진 촬영과 인화.",
+   "performers": [],
+   "note": null,
+   "always": true,
+   "source": "https://shggfestival.com/programs/"
+  },
+  {
+   "id": "p46",
+   "cat": "collab",
+   "title": "「걷자 시흥」 걷기 한마당 (1일차)",
+   "venue": "집결: 시흥시청역 3번 출구 / 신현역 2번 출구 → 잔디마당",
+   "dates": [
+    "2026-09-18"
+   ],
+   "time": "09:30~11:30",
+   "desc": "시청역(약 4~5km) 또는 신현역(약 3~4km)에서 갯골생태공원까지 걷는 시민 걷기 행사.",
+   "performers": [],
+   "note": "시흥시민 100명(코스별 50명) · 온라인 사전신청(8.25~9.16) · 문의 시흥시보건소 건강증진과 031-310-0768",
+   "always": false,
+   "source": "https://shggfestival.com/programs/walk-siheung/"
+  },
+  {
+   "id": "p47",
+   "cat": "collab",
+   "title": "「걷자 시흥」 걷기 한마당 (2일차)",
+   "venue": "잔디로 잔디마당",
+   "dates": [
+    "2026-09-19"
+   ],
+   "time": "09:30~11:30",
+   "desc": "공원 안 약 4.8km 코스(약 70분)를 걷기지도자와 함께 걷습니다.",
+   "performers": [],
+   "note": "약 400명 · 무료 · 온라인 사전신청 또는 당일 09:30 현장 신청",
+   "always": false,
+   "source": "https://shggfestival.com/programs/walk-siheung/"
+  },
+  {
+   "id": "p48",
+   "cat": "collab",
+   "title": "갯골 Eco-Bite with 한국조리과학고",
+   "venue": "갯골대로 인포센터 옆",
+   "dates": [
+    "2026-09-19"
+   ],
+   "time": "10:00~12:00",
+   "desc": "스탬프 랠리 리워드로 운영되는 협업 먹거리 프로그램.",
+   "performers": [],
+   "note": "갯골 스탬프 랠리 리워드",
+   "always": false,
+   "source": "https://shggfestival.com/schedule/"
+  },
+  {
+   "id": "p49",
+   "cat": "collab",
+   "title": "갯골 Eco-Bite with 한국조리과학고",
+   "venue": "갯골대로 인포센터 옆",
+   "dates": [
+    "2026-09-19"
+   ],
+   "time": "14:00~16:00",
+   "desc": "스탬프 랠리 리워드로 운영되는 협업 먹거리 프로그램.",
+   "performers": [],
+   "note": "갯골 스탬프 랠리 리워드",
+   "always": false,
+   "source": "https://shggfestival.com/schedule/"
+  },
+  {
+   "id": "p50",
+   "cat": "collab",
+   "title": "갯골 Eco-Bite with 한국조리과학고",
+   "venue": "갯골대로 인포센터 옆",
+   "dates": [
+    "2026-09-20"
+   ],
+   "time": "10:00~12:00",
+   "desc": "스탬프 랠리 리워드로 운영되는 협업 먹거리 프로그램.",
+   "performers": [],
+   "note": "갯골 스탬프 랠리 리워드",
+   "always": false,
+   "source": "https://shggfestival.com/schedule/"
+  },
+  {
+   "id": "p51",
+   "cat": "collab",
+   "title": "갯골 Eco-Bite with 한국조리과학고",
+   "venue": "갯골대로 인포센터 옆",
+   "dates": [
+    "2026-09-20"
+   ],
+   "time": "14:00~16:00",
+   "desc": "스탬프 랠리 리워드로 운영되는 협업 먹거리 프로그램.",
+   "performers": [],
+   "note": "갯골 스탬프 랠리 리워드",
+   "always": false,
+   "source": "https://shggfestival.com/schedule/"
+  },
+  {
+   "id": "p52",
+   "cat": "collab",
+   "title": "제9회 시흥염전 소금제",
+   "venue": "염전로 염판 위",
+   "dates": [
+    "2026-09-20"
+   ],
+   "time": "14:00~15:00",
+   "desc": "풍요와 건강을 기원하며 올리는 소금제.",
+   "performers": [],
+   "note": null,
+   "always": false,
+   "source": "https://shggfestival.com/programs/"
+  },
+  {
+   "id": "p53",
+   "cat": "collab",
+   "title": "갯골 스탬프 랠리",
+   "venue": "갯골대로 전 구역",
+   "dates": [
+    "2026-09-18",
+    "2026-09-19",
+    "2026-09-20"
+   ],
+   "time": "10:00~17:00",
+   "desc": "지점별 스탬프를 모아 한 장의 그림엽서를 완성합니다.",
+   "performers": [],
+   "note": null,
+   "always": true,
+   "source": "https://shggfestival.com/programs/"
+  },
+  {
+   "id": "p54",
+   "cat": "collab",
+   "title": "갯골 전국 미술대회",
+   "venue": "갯골대로 인포센터",
+   "dates": [
+    "2026-09-18",
+    "2026-09-19",
+    "2026-09-20"
+   ],
+   "time": "10:00~17:00",
+   "desc": "갯골 생태와 자연을 주제로 한 미술대회.",
+   "performers": [],
+   "note": null,
+   "always": true,
+   "source": "https://shggfestival.com/programs/"
+  },
+  {
+   "id": "p55",
+   "cat": "collab",
+   "title": "갯골 느린우체국",
+   "venue": "갯골대로 사구식물원",
+   "dates": [
+    "2026-09-18",
+    "2026-09-19",
+    "2026-09-20"
+   ],
+   "time": "10:00~17:00",
+   "desc": "엽서를 느린우체통에 넣으면 1년 뒤 배달됩니다.",
+   "performers": [],
+   "note": "방문객 500명 (금 100 · 토 200 · 일 200)",
+   "always": true,
+   "source": "https://shggfestival.com/programs/slow-post/"
+  },
+  {
+   "id": "p56",
+   "cat": "collab",
+   "title": "지역 참여 체험 프로그램",
+   "venue": "생태로 일원",
+   "dates": [
+    "2026-09-18",
+    "2026-09-19",
+    "2026-09-20"
+   ],
+   "time": "10:00~17:00",
+   "desc": "축제 소재를 활용한 만들기 체험 등.",
+   "performers": [],
+   "note": null,
+   "always": true,
+   "source": "https://shggfestival.com/programs/"
+  },
+  {
+   "id": "p57",
+   "cat": "collab",
+   "title": "갯골축제 지속가능발전을 품다",
+   "venue": "갯골대로 전 구역",
+   "dates": [
+    "2026-09-18",
+    "2026-09-19",
+    "2026-09-20"
+   ],
+   "time": "10:00~18:00",
+   "desc": "축제의 지속가능성을 점검하고 인식을 넓히는 프로그램.",
+   "performers": [],
+   "note": null,
+   "always": true,
+   "source": "https://shggfestival.com/programs/"
+  },
+  {
+   "id": "p58",
+   "cat": "etc",
+   "title": "미식로 · 염전로 식음존",
+   "venue": "미식로 / 염전로",
+   "dates": [
+    "2026-09-18",
+    "2026-09-19",
+    "2026-09-20"
+   ],
+   "time": "시간 미공개",
+   "desc": "간편식·일반음식점·특산물음식점·푸드트럭 (공식 '먹거리' 페이지에 메뉴·가격 공개).",
+   "performers": [],
+   "note": null,
+   "always": true,
+   "source": "https://shggfestival.com/food/"
+  },
+  {
+   "id": "p59",
+   "cat": "etc",
+   "title": "플리마켓 · 홍보부스 · 농부장터 · 나눔장터",
+   "venue": "미식로",
+   "dates": [
+    "2026-09-18",
+    "2026-09-19",
+    "2026-09-20"
+   ],
+   "time": "10:00~17:00",
+   "desc": "지역 장터와 홍보 부스.",
+   "performers": [],
+   "note": null,
+   "always": true,
+   "source": "https://shggfestival.com/schedule/"
+  },
+  {
+   "id": "p60",
+   "cat": "etc",
+   "title": "그늘막 대여",
+   "venue": "염전로 해수체험장 옆",
+   "dates": [
+    "2026-09-18",
+    "2026-09-19",
+    "2026-09-20"
+   ],
+   "time": "10:00~17:00",
+   "desc": "그늘막 텐트 대여 (요금 미공개).",
+   "performers": [],
+   "note": null,
+   "always": true,
+   "source": "https://shggfestival.com/facilities/"
+  }
+ ],
+ "programSourceNote": "출처: 시흥갯골축제 공식 누리집 시간표·프로그램 (2026-10-04 확인). 분류(대표/공연/체험/협업·참여/장터·편의)는 데모용 정리입니다.",
+ "map": {
+  "center": [
+   37.3885,
+   126.7815
+  ],
+  "zoom": 15,
+  "categories": [
+   {
+    "key": "all",
+    "name": "전체"
+   },
+   {
+    "key": "venue",
+    "name": "축제장",
+    "color": "#B5523B"
+   },
+   {
+    "key": "shuttle",
+    "name": "셔틀 정류장",
+    "color": "#2F6F8F"
+   },
+   {
+    "key": "bus",
+    "name": "버스 정류장",
+    "color": "#4F8A5B"
+   },
+   {
+    "key": "parking",
+    "name": "주차장",
+    "color": "#6B5B95"
+   },
+   {
+    "key": "rail",
+    "name": "전철역",
+    "color": "#B8892F"
+   }
+  ],
+  "markers": [
+   {
+    "cat": "venue",
+    "name": "시흥갯골생태공원 (축제장)",
+    "lat": 37.3897,
+    "lng": 126.7801,
+    "desc": "경기도 시흥시 동서로 287 · 차 없는 축제 · 장애인 주차 20면(내부)",
+    "verified": true,
+    "source": "https://shggfestival.com/location/",
+    "major": true
+   },
+   {
+    "cat": "bus",
+    "name": "갯골생태공원 정류장",
+    "lat": 37.389702,
+    "lng": 126.780149,
+    "desc": "마을 5번 (축제 기간 주말 증차) · 8-1번 축제 기간 경유",
+    "verified": true,
+    "source": "https://www.openstreetmap.org/node/12173227068",
+    "major": false
+   },
+   {
+    "cat": "bus",
+    "name": "갯골생태공원입구·동양덱스빌 정류장",
+    "lat": 37.380947,
+    "lng": 126.780099,
+    "desc": "8-1번 축제 기간 추가 정차 · 시흥시 안내: 11-3, 26-1, 32, 63번 이용 후 도보 약 16분",
+    "verified": true,
+    "source": "https://www.openstreetmap.org/node/11480593295",
+    "major": false
+   },
+   {
+    "cat": "bus",
+    "name": "장곡고등학교·숲속마을 정류장",
+    "lat": 37.379426,
+    "lng": 126.782132,
+    "desc": "시흥시 안내: 26, 61, 530, 3300번 이용 후 도보 약 20분",
+    "verified": true,
+    "source": "https://www.openstreetmap.org/node/11480593293",
+    "major": false
+   },
+   {
+    "cat": "shuttle",
+    "name": "시흥시청 (셔틀 · 정문 승차)",
+    "lat": 37.380065,
+    "lng": 126.80308,
+    "desc": "시청 정문 ↔ 축제장 · 08:30~22:00 · 금 15분 / 토·일 5~10분 수시 (청사 위치 기준, 정문 승차 지점 좌표는 미확인)",
+    "verified": true,
+    "source": "https://www.openstreetmap.org/way/427074757",
+    "major": false
+   },
+   {
+    "cat": "shuttle",
+    "name": "오이도역 (셔틀 · 2번 출구)",
+    "lat": 37.361925,
+    "lng": 126.738494,
+    "desc": "토·일 30분 간격 · 2번 출구 잔디마당 중간쪽 도로 정류소 (역 위치 기준)",
+    "verified": true,
+    "source": "https://www.openstreetmap.org/node/5727672637",
+    "major": false
+   },
+   {
+    "cat": "shuttle",
+    "name": "배곧 롯데마트 (셔틀 경유)",
+    "lat": 37.368899,
+    "lng": 126.731422,
+    "desc": "오이도역 노선 경유 · 롯데마트 앞 택시승강장 인근 (매장 위치 기준)",
+    "verified": true,
+    "source": "https://www.openstreetmap.org/way/468959927",
+    "major": false
+   },
+   {
+    "cat": "shuttle",
+    "name": "신천역 (셔틀 · 5번 출구)",
+    "lat": 37.43931,
+    "lng": 126.7868,
+    "desc": "토·일 30분 간격 · 5번 출구 앞 정류소 (역 위치 기준)",
+    "verified": true,
+    "source": "https://www.openstreetmap.org/node/5921531703",
+    "major": false
+   },
+   {
+    "cat": "shuttle",
+    "name": "은계 브리즈힐 (셔틀 경유)",
+    "lat": 37.438782,
+    "lng": 126.802796,
+    "desc": "신천역 노선 경유 · 정류소는 브리즈힐 맞은편 올리브영 앞 (아파트 단지 위치 기준)",
+    "verified": true,
+    "source": "https://www.openstreetmap.org/way/665782130",
+    "major": false
+   },
+   {
+    "cat": "shuttle",
+    "name": "목감 어울림센터 (셔틀)",
+    "lat": 37.381681,
+    "lng": 126.858747,
+    "desc": "토·일 30분 간격 · 목감우회로 23 · 센터 앞 택시승강장 인근",
+    "verified": true,
+    "source": "https://www.openstreetmap.org/way/996982749",
+    "major": false
+   },
+   {
+    "cat": "parking",
+    "name": "시흥시청 주차장 (1,317면)",
+    "lat": 37.3801244,
+    "lng": 126.8030325,
+    "desc": "장현동 구역 · 24시간 · 주차 후 시청 정문에서 셔틀 승차 (청사 위치 기준)",
+    "verified": true,
+    "source": "https://www.openstreetmap.org/way/427074754",
+    "major": false
+   },
+   {
+    "cat": "parking",
+    "name": "진말초등학교 (60면)",
+    "lat": 37.3807536,
+    "lng": 126.7881445,
+    "desc": "장곡동 구역 · 토·일 08:30~21:30 · 도보 이동 (학교 위치 기준)",
+    "verified": true,
+    "source": "https://www.openstreetmap.org/way/766597689",
+    "major": false
+   },
+   {
+    "cat": "parking",
+    "name": "장곡중학교 (40면)",
+    "lat": 37.3799356,
+    "lng": 126.788086,
+    "desc": "장곡동 구역 · 토·일 09:00~21:30 · 도보 이동",
+    "verified": true,
+    "source": "https://www.openstreetmap.org/way/766597688",
+    "major": false
+   },
+   {
+    "cat": "parking",
+    "name": "시흥장곡고등학교 (50면)",
+    "lat": 37.3802961,
+    "lng": 126.7818659,
+    "desc": "장곡동 구역 · 금 18~22시 / 토·일 05~22시 · 도보 이동",
+    "verified": true,
+    "source": "https://www.openstreetmap.org/way/475618340",
+    "major": false
+   },
+   {
+    "cat": "parking",
+    "name": "능곡초등학교 (36면)",
+    "lat": 37.3654217,
+    "lng": 126.8125957,
+    "desc": "능곡동 구역 · 토 13~19시 / 일 08~19시 · 능곡역→시흥시청역→셔틀",
+    "verified": true,
+    "source": "https://www.openstreetmap.org/way/1304372664",
+    "major": false
+   },
+   {
+    "cat": "parking",
+    "name": "승지초등학교 (50면)",
+    "lat": 37.3727073,
+    "lng": 126.8125051,
+    "desc": "능곡동 구역 · 토·일 09~17시",
+    "verified": true,
+    "source": "https://www.openstreetmap.org/way/502800529",
+    "major": false
+   },
+   {
+    "cat": "parking",
+    "name": "능곡중학교 (40면)",
+    "lat": 37.3650732,
+    "lng": 126.8150126,
+    "desc": "능곡동 구역 · 금 17~19시 / 토·일 09~19시",
+    "verified": true,
+    "source": "https://www.openstreetmap.org/way/1304372665",
+    "major": false
+   },
+   {
+    "cat": "rail",
+    "name": "시흥시청역",
+    "lat": 37.382078,
+    "lng": 126.805746,
+    "desc": "서해선 · 걷기 한마당 1코스 집결(3번 출구) · 시흥시 안내: 1번 출구 → 마을 5번",
+    "verified": true,
+    "source": "https://www.openstreetmap.org/node/5921531691",
+    "major": false
+   },
+   {
+    "cat": "rail",
+    "name": "신현역",
+    "lat": 37.409584,
+    "lng": 126.78787,
+    "desc": "걷기 한마당 2코스 집결 (2번 출구)",
+    "verified": true,
+    "source": "https://www.openstreetmap.org/node/5921531694",
+    "major": false
+   },
+   {
+    "cat": "rail",
+    "name": "시흥능곡역",
+    "lat": 37.370085,
+    "lng": 126.808751,
+    "desc": "능곡동 주차 시 지하철로 시흥시청역 이동 · 시흥시 안내: 4번 출구 → 마을 5번",
+    "verified": true,
+    "source": "https://www.openstreetmap.org/node/5921531689",
+    "major": false
+   }
+  ],
+  "note": "● OSM·공식 좌표 확인 위치만 표시 · 축제장 내부 구역(염전로·잔디로 등) 좌표는 미확인이라 표시하지 않음",
+  "areas": [],
+  "kakaoKey": "6cf95d04d40863276b7815790c3e87d0"
+ },
+ "parking": {
+  "intro": "시흥갯골축제는 '차 없는 축제'로 운영되어, 축제장 내부에는 장애인 주차장 20면만 있습니다. 아래 구역에 주차 후 셔틀·도보·지하철로 이동하세요.",
+  "zones": [
+   {
+    "name": "장현동",
+    "total": "1,445면",
+    "access": "주차 후 시흥시청 정문 앞에서 셔틀버스 승차",
+    "lots": [
+     [
+      "시흥시청 (시청로 20)",
+      "1,317면",
+      "24시간"
+     ],
+     [
+      "시청후문 (장현동 543-5)",
+      "39면",
+      "24시간"
+     ],
+     [
+      "산림조합 (장현동 546-3)",
+      "40면",
+      "24시간"
+     ],
+     [
+      "새재공영 (장현동 534-2)",
+      "49면",
+      "24시간"
+     ]
+    ]
+   },
+   {
+    "name": "장곡동",
+    "total": "585면",
+    "access": "주차 후 도보로 축제장 이동",
+    "lots": [
+     [
+      "장곡동 819-1",
+      "60면",
+      "24시간"
+     ],
+     [
+      "장곡동 812-1",
+      "35면",
+      "24시간"
+     ],
+     [
+      "장곡동 344",
+      "72면",
+      "24시간"
+     ],
+     [
+      "장곡동 932-10",
+      "33면",
+      "24시간"
+     ],
+     [
+      "장곡동 859 (임시주차장)",
+      "58면",
+      "24시간"
+     ],
+     [
+      "장곡동 659-6 생활체육시설",
+      "110면",
+      "24시간"
+     ],
+     [
+      "진말초등학교",
+      "60면",
+      "토·일 08:30~21:30"
+     ],
+     [
+      "장곡중학교",
+      "40면",
+      "토·일 09:00~21:30"
+     ],
+     [
+      "장곡고등학교",
+      "50면",
+      "금 18~22시 / 토·일 05~22시"
+     ]
+    ]
+   },
+   {
+    "name": "능곡동",
+    "total": "210면",
+    "access": "능곡역에서 지하철로 시흥시청역 이동 후 시청 정문에서 셔틀 승차",
+    "lots": [
+     [
+      "능곡동 506",
+      "21면",
+      "24시간"
+     ],
+     [
+      "능곡동 614",
+      "26면",
+      "24시간"
+     ],
+     [
+      "능곡동 900-3",
+      "37면",
+      "24시간"
+     ],
+     [
+      "능곡초등학교",
+      "36면",
+      "토 13~19시 / 일 08~19시"
+     ],
+     [
+      "승지초등학교",
+      "50면",
+      "토·일 09~17시"
+     ],
+     [
+      "능곡중학교",
+      "40면",
+      "금 17~19시 / 토·일 09~19시"
+     ]
+    ]
+   },
+   {
+    "name": "축제장 내부",
+    "total": "20면",
+    "access": "장애인 주차 전용",
+    "lots": [
+     [
+      "시흥갯골생태공원 축제장 내부",
+      "20면",
+      "운영시간 미공개"
+     ]
+    ]
+   }
+  ],
+  "fee": "주차 요금: 공식 안내에 표기 없음 (미확인)",
+  "sources": [
+   "https://shggfestival.com/location/"
+  ],
+  "sourceUrl": "https://shggfestival.com/location/"
+ },
+ "shuttle": {
+  "period": "2026. 9. 18.(금) ~ 9. 20.(일)",
+  "hours": "시청 정문 노선 08:30~22:00 · 그 외 3개 노선 토·일 09:00~22:00",
+  "fare": "미공개 (공식 안내에 요금 표기 없음)",
+  "routes": [
+   {
+    "no": 1,
+    "name": "시흥시청 정문 ↔ 축제장",
+    "color": "#2F6F8F",
+    "interval": "9.18(금) 15분 · 9.19(토)~9.20(일) 수시 5~10분",
+    "stops": [
+     "시흥시청 정문",
+     "축제장 (시흥갯골생태공원)"
+    ],
+    "times": [
+     [
+      "시청 정문 → 축제장",
+      "08:30",
+      "21:30"
+     ],
+     [
+      "축제장 → 시청 정문",
+      "08:30",
+      "22:00"
+     ]
+    ]
+   },
+   {
+    "no": 2,
+    "name": "오이도역 ↔ 배곧 롯데마트 ↔ 축제장",
+    "color": "#4F8A5B",
+    "interval": "9.19(토)~9.20(일) 30분",
+    "stops": [
+     "오이도역 2번 출구 (잔디마당 중간쪽 도로)",
+     "배곧 롯데마트 앞 택시승강장 인근",
+     "축제장"
+    ],
+    "times": [
+     [
+      "오이도역·배곧 → 축제장",
+      "09:00",
+      "21:00"
+     ],
+     [
+      "축제장 → 오이도역·배곧",
+      "10:00",
+      "22:00"
+     ]
+    ]
+   },
+   {
+    "no": 3,
+    "name": "신천역 ↔ 은계 브리즈힐 ↔ 축제장",
+    "color": "#B5523B",
+    "interval": "9.19(토)~9.20(일) 30분",
+    "stops": [
+     "신천역 5번 출구 앞",
+     "은계 브리즈힐 맞은편 올리브영 앞",
+     "축제장"
+    ],
+    "times": [
+     [
+      "신천역·은계 → 축제장",
+      "09:00",
+      "21:00"
+     ],
+     [
+      "축제장 → 신천역·은계",
+      "10:00",
+      "22:00"
+     ]
+    ]
+   },
+   {
+    "no": 4,
+    "name": "목감 어울림센터 ↔ 축제장",
+    "color": "#B8892F",
+    "interval": "9.19(토)~9.20(일) 30분",
+    "stops": [
+     "목감어울림센터 앞 택시승강장 인근",
+     "축제장"
+    ],
+    "times": [
+     [
+      "목감 → 축제장",
+      "09:00",
+      "21:00"
+     ],
+     [
+      "축제장 → 목감",
+      "10:00",
+      "22:00"
+     ]
+    ]
+   }
+  ],
+  "extra": [
+   {
+    "title": "마을버스 5번 증차",
+    "body": "9.19(토)~9.20(일) 주말 5대 → 7대. 갯골 출발 06:00~22:00, 15분 간격(06:00~19:45). 문의 시흥시 대중교통과 031-310-2647."
+   },
+   {
+    "title": "마을버스 8-1번 경로 변경·증차",
+    "body": "9.19(토)~9.20(일) 시흥갯골생태공원·갯골생태공원입구(동양덱스빌) 경유, 주말 2대 → 3대. 능곡 출발 05:10~23:00 (갯골 경유 05:35~23:25, 교통상황에 따라 변동)."
+   }
+  ],
+  "note": "공식 누리집은 노선별 첫차·막차와 배차간격만 공개합니다. 축제는 2026.9.20 종료되었으며, 이 화면은 당시 안내를 재구성한 시연용입니다.",
+  "source": "https://shggfestival.com/shuttle/",
+  "sourceUrl": "https://shggfestival.com/shuttle/"
+ },
+ "notices": [
+  {
+   "id": 0,
+   "type": "NOTICE",
+   "title": "[데모 안내] 제21회 축제는 2026.9.20(일) 종료되었습니다",
+   "date": "2026-10-04",
+   "url": "https://shggfestival.com/",
+   "summary": "이 앱은 지난 축제 정보를 바탕으로 만든 영업 시연용 데모입니다. 최신 정보는 공식 누리집을 확인하세요."
+  },
+  {
+   "id": 1,
+   "type": "EVENT",
+   "title": "갯골 스탬프 랠리",
+   "date": "2026-09-18",
+   "url": "https://shggfestival.com/programs/",
+   "summary": "갯골대로 곳곳 스탬프를 모아 그림엽서 완성. 토·일 'Eco-Bite with 한국조리과학고'가 리워드로 운영 (경품 상세 미공개)."
+  },
+  {
+   "id": 2,
+   "type": "EVENT",
+   "title": "콘서트 in 갯골 라인업",
+   "date": "2026-09-18",
+   "url": "https://shggfestival.com/programs/concert/",
+   "summary": "금: 한울타리 통기타 동아리·김시영밴드·트리니티·심명기 / 토: 동물원·자전거 탄 풍경·여행스케치 / 일: 박혜경·서영은 (매일 18:30)."
+  },
+  {
+   "id": 421,
+   "type": "NOTICE",
+   "title": "「걷자 시흥」걷기한마당 운영 안내",
+   "date": "2026-09-01",
+   "url": "https://shggfestival.com/community/?shgg_notice=421",
+   "summary": "9.18(금) 역→공원 걷기, 9.19(토) 공원 내 걷기 · 사전신청 8.25~9.16."
+  },
+  {
+   "id": 999,
+   "type": "NOTICE",
+   "title": "축제 기간 주차장 및 셔틀버스 운영 안내",
+   "date": "2026-08-10",
+   "url": "https://shggfestival.com/location/",
+   "summary": "장현동·장곡동·능곡동 주차 구역과 4개 셔틀 노선 — 앱 '주차/셔틀' 메뉴에서 확인."
+  },
+  {
+   "id": 360,
+   "type": "NOTICE",
+   "title": "갯골 전국 미술대회 운영 안내",
+   "date": "2026-08-07",
+   "url": "https://shggfestival.com/community/?shgg_notice=360",
+   "summary": "갯골대로 인포센터 · 축제 기간 10:00~17:00."
+  },
+  {
+   "id": 361,
+   "type": "NOTICE",
+   "title": "소금창고 인형극장 관람 안내",
+   "date": "2026-07-28",
+   "url": "https://shggfestival.com/community/?shgg_notice=361",
+   "summary": "9.19~9.20 하루 3회 · 회차별 40명 선착순 입장권."
+  }
+ ],
+ "faq": [
+  {
+   "q": "축제 기간과 장소는?",
+   "a": "제21회 시흥갯골축제는 2026년 9월 18일(금)~20일(일) 사흘간 시흥갯골생태공원 일원(경기도 시흥시 동서로 287)에서 열렸습니다. ※ 2026년 축제는 종료되었습니다."
+  },
+  {
+   "q": "입장료가 있나요?",
+   "a": "무료입니다. 일부 체험은 유료입니다 (예: 판타지 열기구 1인 10,000원, 갯골 생태탐험대 1인 3,000원)."
+  },
+  {
+   "q": "운영 시간은?",
+   "a": "공식 '축제소개'는 10:00~22:00(열기구만 09:00부터), '오시는 길' 페이지는 매일 09:00~21:30으로 표기합니다. 상시 프로그램은 10:00~17:00에 운영됩니다."
+  },
+  {
+   "q": "차를 가지고 가도 되나요?",
+   "a": "생태공원 보호를 위해 '차 없는 축제'로 운영됩니다. 축제장 내부에는 장애인 주차장 20면만 있고, 장현동(시흥시청)·장곡동·능곡동 주차장을 이용한 뒤 셔틀·도보·지하철로 이동해야 합니다."
+  },
+  {
+   "q": "셔틀버스는 어디서 타나요?",
+   "a": "시흥시청 정문(매일 08:30~22:00, 금 15분·주말 5~10분), 오이도역 2번 출구·배곧 롯데마트, 신천역 5번 출구·은계 브리즈힐, 목감 어울림센터(이상 토·일 30분 간격)에서 축제장까지 운행합니다."
+  },
+  {
+   "q": "열기구는 누구나 탈 수 있나요?",
+   "a": "당일 현장 접수로 1인 10,000원입니다. 성인 최대 4명(어린이만 최대 6명, 36개월 이상) 탑승, 최대 300kg. 09:00~12:00, 16:00~21:00 운영하며 바람·비에 따라 중단될 수 있습니다."
+  },
+  {
+   "q": "인형극은 어떻게 보나요?",
+   "a": "소금창고 인형극장은 9.19~9.20 11·13·15시에 무료로 공연하며, 회차별 40명 선착순 입장권을 배부합니다 (11·13시 회차는 당일 10:00, 15시 회차는 14:00부터)."
+  },
+  {
+   "q": "해수풀장 이용 시 준비물은?",
+   "a": "아쿠아슈즈 착용이 필수입니다. 탈의실은 화장실 쪽에 있습니다 (정확한 위치는 공식 지도 참고 — 이 앱 지도에는 미표시)."
+  },
+  {
+   "q": "먹거리는 어디에 있나요?",
+   "a": "미식로 식음존과 염전로 식음존에서 간편식·일반음식점·특산물음식점·푸드트럭을 운영했습니다. 메뉴와 가격은 공식 '먹거리' 페이지에 공개되어 있습니다."
+  },
+  {
+   "q": "비가 오면 어떻게 되나요?",
+   "a": "[미확인] 축제 전체 우천 운영 방침은 공식 안내에서 확인되지 않았습니다. 열기구는 기상에 따라 중단될 수 있고, 생태탐험대는 전날 10시 예보 기준으로 운영 여부를 결정합니다."
+  },
+  {
+   "q": "문의는 어디로 하나요?",
+   "a": "시흥시청 관광과 031-310-2916·2919·2920 (공식 누리집). 시흥시 문화관광 페이지는 031-310-2917~2923으로 안내합니다. 대중교통은 시흥시 대중교통과 031-310-2647."
+  }
+ ],
+ "faqSourceNote": "답변은 공식 누리집(shggfestival.com)과 시흥시 문화관광 페이지 기준이며 data/sources.md 에 출처가 있습니다.",
+ "footer": {
+  "name": "제21회 시흥갯골축제",
+  "address": "경기도 시흥시 동서로 287 시흥갯골생태공원",
+  "contact": "문의 시흥시청 관광과 031-310-2916 · 2919 · 2920",
+  "copyright": "주최·주관 시흥시",
+  "officialUrl": "https://shggfestival.com/",
+  "instagram": "https://www.instagram.com/sgfestival/",
+  "youtube": "https://www.youtube.com/shorts/6rdD4Ss_Oh8"
+ },
+ "credits": [
+  {
+   "id": "hero",
+   "file": "img/hero.jpg",
+   "title": "Salt Warehouse of Sorae Salt Field no.a.jpg",
+   "author": "오모군",
+   "license": "CC BY 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Salt_Warehouse_of_Sorae_Salt_Field_no.a.jpg"
+  },
+  {
+   "id": "highlights",
+   "file": "img/highlights.jpg",
+   "title": "Restored 2nd-generation Crystallizing pond of Sorae Salt Field.jpg",
+   "author": "오모군",
+   "license": "CC BY 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Restored_2nd-generation_Crystallizing_pond_of_Sorae_Salt_Field.jpg"
+  },
+  {
+   "id": "family",
+   "file": "img/family.jpg",
+   "title": "Gasireong locomotive.jpg",
+   "author": "오모군",
+   "license": "CC BY 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Gasireong_locomotive.jpg"
+  },
+  {
+   "id": "night",
+   "file": "img/night.jpg",
+   "title": "Restored 3rd-generation Crystallizing pond of Sorae Salt Field.jpg",
+   "author": "오모군",
+   "license": "CC BY 3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Restored_3rd-generation_Crystallizing_pond_of_Sorae_Salt_Field.jpg"
+  }
+ ],
+ "sources": [
+  "https://shggfestival.com/facilities/",
+  "https://shggfestival.com/food/",
+  "https://shggfestival.com/location/",
+  "https://shggfestival.com/programs/",
+  "https://shggfestival.com/programs/balloon/",
+  "https://shggfestival.com/programs/concert/",
+  "https://shggfestival.com/programs/getgol-explorer/",
+  "https://shggfestival.com/programs/salt-dance/",
+  "https://shggfestival.com/programs/salt-puppet/",
+  "https://shggfestival.com/programs/sea-pool/",
+  "https://shggfestival.com/programs/senior-runway/",
+  "https://shggfestival.com/programs/slow-post/",
+  "https://shggfestival.com/programs/street-art/",
+  "https://shggfestival.com/programs/walk-siheung/",
+  "https://shggfestival.com/schedule/",
+  "https://shggfestival.com/shuttle/"
+ ]
+}
